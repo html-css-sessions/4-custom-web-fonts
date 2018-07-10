@@ -19,6 +19,9 @@ how to use custom web fonts
 
 * The @font-face at-rule used at the top level of a CSS.
 
+* There are mainly two type of fonts we know TTF and OTF.
+
+* True Type Font and Open Type Font.
 
 
 # Online tool to convert font to web compatible 
@@ -31,14 +34,14 @@ how to use custom web fonts
 * Different browsers support different font formats. You can generate all formats for 
   optimal crossbrowser support with http://www.fontsquirrel.com/fontface/generator.
   
-* **TTF:** Raw TrueType file, designed to look good on-screen.
+* **TTF:** Raw **True Type file**, designed to look good on-screen.
 
-* **EOT Lite:** EOTs are only supported by Internet Explorer. This EOT type is uncompressed and is the same filesize as a TTF.
+* **EOT Lite:** **Embedded Open Type** EOTs are only supported by **Internet Explorer**. This EOT type is uncompressed and is the same filesize as a TTF.
 
 * **EOT Compressed:** EOT compressed with LZ compression. File sizes are often smaller than WOFF.
 
-* **WOFF:** Cross-browser, web-only font format that uses gzip compression. IE9+, FF3.6+, Chrome 5+
+* **WOFF:** **Web Open Font Format** Cross-browser, web-only font format that uses gzip compression. **IE9+, FF3.6+, Chrome 5+**
 
-* **SVG:** This is an XML format required by iOS devices before version 4.2.
+* **SVG:** **Scalable Vector Graphics** This is an XML format required by **iOS devices before version 4.2.**
 
 * **SVGZ:** This is gzipped version of SVG.
