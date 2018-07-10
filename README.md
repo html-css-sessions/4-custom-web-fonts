@@ -1,13 +1,12 @@
 # 4-custom-web-fonts
 how to use custom web fonts
 
-```
 # git repo
 
 * https://github.com/html-css-sessions/4-custom-web-fonts
-```
 
-```
+
+
 # @font-face for Custom Web Fonts
 
 * The **@font-face** CSS at-rule specifies a custom font with which to display text.
@@ -19,14 +18,14 @@ how to use custom web fonts
 * Make it possible to do so without relying on an Internet connection.
 
 * The @font-face at-rule used at the top level of a CSS.
-```
 
-```
+
+
 # Online tool to convert font to web compatible 
     https://www.fontsquirrel.com/    
-```
 
-```
+
+
 # Generating Custom Web Font
 
 * Different browsers support different font formats. You can generate all formats for 
@@ -43,4 +42,3 @@ how to use custom web fonts
 * **SVG:** This is an XML format required by iOS devices before version 4.2.
 
 * **SVGZ:** This is gzipped version of SVG.
-```
