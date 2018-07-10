@@ -13,19 +13,15 @@ how to use custom web fonts
 
 * By allowing authors to provide their own fonts, @font-face makes it possible to design content without 
   being limited to the so-called "safe" fonts (that is, the fonts which are so common that they're 
-  considered to be universally available) for eg. Arial, Verdana, Times Now etc etc.
+  considered to be universally available) for eg. Arial, Verdana, Times New Roman etc etc.
 
 * Make it possible to do so without relying on an Internet connection.
 
 * The @font-face at-rule used at the top level of a CSS.
 
-* There are mainly two type of fonts we know TTF and OTF.
+* There are mainly two type of fonts we know **TTF and OTF**.
 
-* True Type Font and Open Type Font.
-
-
-# Online tool to convert font to web compatible 
-    https://www.fontsquirrel.com/    
+* **True Type Font** and **Open Type Font**.
 
 
 
