@@ -1,9 +1,11 @@
 # 4-custom-web-fonts
 how to use custom web fonts
 
-# git repo
+# Reference
 
 * https://github.com/html-css-sessions/4-custom-web-fonts
+
+* https://creativemarket.com/blog/the-missing-guide-to-font-formats
 
 
 
