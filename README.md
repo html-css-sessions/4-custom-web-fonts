@@ -20,7 +20,7 @@ how to use custom web fonts
 
 
 
-# GENERATING CUSTOM WEBFONT
+# Generating Custom Web Font
 
 * Different browsers support different font formats. You can generate all formats for 
   optimal crossbrowser support with http://www.fontsquirrel.com/fontface/generator.
